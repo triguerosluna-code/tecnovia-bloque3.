@@ -8,8 +8,8 @@ public class HolaMundo {
         System.out.println("Prueba de linea de texto 3");
 
         /// 3.3
-        System.out.println("hola");
-        
+        System.out.println("3.3 paso 06");
+
 
 
     }
